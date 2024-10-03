@@ -108,7 +108,7 @@ int main() {
         cout << "1 Adicionar Produto" << endl;
         cout << "2 Exibir Produtos" << endl;
         cout << "3 Calcular Valor Total do stock" << endl;
-        cout << "4 Salvar Produtos" << endl;
+        cout << "4 Guardar Produtos" << endl;
         cout << "5 Alterar" << endl;
         cout << "6 Eliminar" << endl;
         cout << "0 Sair" << endl;
